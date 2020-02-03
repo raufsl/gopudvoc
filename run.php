@@ -95,8 +95,7 @@ function change(){
          }
          }
          goto setpin;
-         }
-         else{
+         }else{
          echo color("red","-] OTP yang anda input salah");
          echo"\n==================================\n\n";
          echo color("yellow","!] Silahkan input kembali\n");
