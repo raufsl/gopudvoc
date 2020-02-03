@@ -94,7 +94,7 @@ function change(){
          }
          }
          }
-       
+	 }
          goto setpin;
          }else{
          echo color("red","-] OTP yang anda input salah");
